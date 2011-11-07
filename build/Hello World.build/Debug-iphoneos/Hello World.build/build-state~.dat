@@ -1,0 +1,261 @@
+THello World
+v7
+r1
+
+N/Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/Availability.h
+c000000004D4F74C20000000000001B19
+t1297052866
+s6937
+
+N/Users/Saurabh/Library/MobileDevice/Provisioning Profiles/82D9A7F3-283D-4A84-8228-CCCE7CA34AAD.mobileprovision
+c000000004EB1CC860000000000001C47
+t1320275078
+s7239
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello World-Prefix.pch
+c000000004EA6ED990000000000000148
+t1319562649
+s328
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.h
+c000000004EA6ED9900000000000001AE
+t1319562649
+s430
+i<UIKit/UIKit.h>
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m
+c000000004EA6ED990000000000000971
+t1319562649
+s2417
+i"Hello_WorldAppDelegate.h"
+i"Hello_WorldViewController.h"
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.h
+c000000004EA6F0690000000000000175
+t1319563369
+s373
+i<UIKit/UIKit.h>
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m
+c000000004EA6F41F0000000000000529
+t1319564319
+s1321
+i"Hello_WorldViewController.h"
+
+N/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/Hello_WorldViewController.xib
+c000000004EA6F849000000000000343D
+t1319565385
+s13373
+
+N/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/InfoPlist.strings
+c000000004EA6ED99000000000000002D
+t1319562649
+s45
+
+N/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/MainWindow.xib
+c000000004EA6ED990000000000004E49
+t1319562649
+s20041
+
+N/Users/Saurabh/workspace/Hello World/Hello World/main.m
+c000000004EA6ED990000000000000162
+t1319562649
+s354
+i<UIKit/UIKit.h>
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app.dSYM
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/Hello World
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/Info.plist
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/PkgInfo
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/en.lproj/Hello_WorldViewController.nib
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello World
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello World.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello_WorldAppDelegate.o
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello_WorldViewController.o
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv7/Hello World
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv7/Hello World.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv7/Hello_WorldAppDelegate.o
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv7/Hello_WorldViewController.o
+t2
+s0
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-cdlkspislgxdfbayygdojikocmlp/Hello World-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-epoutdxawlhxnpgvlzhsyarayftb/Hello World-Prefix.pch.gch
+t2
+s0
+
+NHello World/Hello World-Info.plist
+c000000004EA72ED300000000000004EA
+t1319579347
+s1258
+
+CCodeSign "/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app"
+r0
+
+CCompileC "build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello_WorldAppDelegate.o" "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello_WorldViewController.o" "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/main.o" "/Users/Saurabh/workspace/Hello World/Hello World/main.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv7/Hello_WorldAppDelegate.o" "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv7/Hello_WorldViewController.o" "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv7/main.o" "/Users/Saurabh/workspace/Hello World/Hello World/main.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileXIB "/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/Hello_WorldViewController.xib"
+r0
+
+CCompileXIB "/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/MainWindow.xib"
+r0
+
+CCopyStringsFile "/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/en.lproj/InfoPlist.strings" "Hello World/en.lproj/InfoPlist.strings"
+r0
+
+CCpResource "build/Debug-iphoneos/Hello World.app/ResourceRules.plist" /Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/Hello World" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app.dSYM" "/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/Hello World"
+r0
+
+CLd "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv6/Hello World" normal armv6
+r0
+
+CLd "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Objects-normal/armv7/Hello World" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/Info.plist" "Hello World/Hello World-Info.plist"
+r0
+
+CProcessPCH "/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-cdlkspislgxdfbayygdojikocmlp/Hello World-Prefix.pch.gch" "Hello World/Hello World-Prefix.pch" normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH "/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-epoutdxawlhxnpgvlzhsyarayftb/Hello World-Prefix.pch.gch" "Hello World/Hello World-Prefix.pch" normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessProductPackaging "/Users/Saurabh/Library/MobileDevice/Provisioning Profiles/82D9A7F3-283D-4A84-8228-CCCE7CA34AAD.mobileprovision" "/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer-3.2.6/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphoneos/Hello World.build/Hello World.xcent"
+r0
+
+CTouch "/Users/Saurabh/workspace/Hello World/build/Debug-iphoneos/Hello World.app"
+r0
+

@@ -1,0 +1,281 @@
+THello World
+v7
+r0
+t341972702.852835
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist" "Hello World/Hello World-Info.plist"
+cProcessPCH "/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-boensqviogqqlpgrumacmkzoktpl/Hello World-Prefix.pch.gch" "Hello World/Hello World-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/Users/Saurabh/workspace/Hello World/Hello World/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o" "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World" normal i386
+cGenerateDSYMFile "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM" "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World"
+cCopyStringsFile "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/en.lproj/InfoPlist.strings" "Hello World/en.lproj/InfoPlist.strings"
+cCompileXIB "/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/MainWindow.xib"
+cCompileXIB "/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/Hello_WorldViewController.xib"
+cTouch "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app"
+
+N/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello World-Prefix.pch
+c000000004EA6ED990000000000000148
+t1319562649
+s328
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.h
+c000000004EA6ED9900000000000001AE
+t1319562649
+s430
+i<UIKit/UIKit.h>
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m
+c000000004EA6ED990000000000000971
+t1319562649
+s2417
+i"Hello_WorldAppDelegate.h"
+i"Hello_WorldViewController.h"
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.h
+c000000004EA6F0690000000000000175
+t1319563369
+s373
+i<UIKit/UIKit.h>
+
+N/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m
+c000000004EA6F41F0000000000000529
+t1319564319
+s1321
+i"Hello_WorldViewController.h"
+
+N/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/Hello_WorldViewController.xib
+c000000004EA6F849000000000000343D
+t1319565385
+s13373
+
+N/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/InfoPlist.strings
+c000000004EA6ED99000000000000002D
+t1319562649
+s45
+
+N/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/MainWindow.xib
+c000000004EA6ED990000000000004E49
+t1319562649
+s20041
+
+N/Users/Saurabh/workspace/Hello World/Hello World/main.m
+c000000004EA6ED990000000000000162
+t1319562649
+s354
+i<UIKit/UIKit.h>
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app
+t1320279902
+s204
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM
+t1320279902
+s102
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World
+t1320279902
+s18420
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist
+t1320279901
+s850
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/PkgInfo
+t1320279901
+s8
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/en.lproj/Hello_WorldViewController.nib
+t1320279902
+s3763
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/en.lproj/InfoPlist.strings
+t1320279902
+s42
+
+N/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/en.lproj/MainWindow.nib
+t1320279902
+s1689
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello World.LinkFileList
+c000000004EB1DF5D00000000000001A7
+t1320279901
+s423
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
+t1320279902
+s48040
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o
+t1320279902
+s37976
+
+N/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
+t1320279902
+s3092
+
+N/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-boensqviogqqlpgrumacmkzoktpl/Hello World-Prefix.pch.gch
+t1320279901
+s12287472
+
+NHello World/Hello World-Info.plist
+c000000004EA72ED300000000000004EA
+t1319579347
+s1258
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341972701#341972701#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s341972702.013614
+e341972702.165438
+r1
+xCompileC
+xbuild/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
+x/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m341972702#341972702#0(0"0(0#0#73"/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m8603289920#2063"    cd "/Users/Saurabh/workspace/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator" "-I/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/include" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include "/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-boensqviogqqlpgrumacmkzoktpl/Hello World-Prefix.pch" -c "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldAppDelegate.m" -o "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o"0#
+
+CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o" "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s341972702.014840
+e341972702.164538
+r1
+xCompileC
+xbuild/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o
+x/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@84"Compile /Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m341972702#341972702#0(0"0(0#0#76"/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m8603727072#2069"    cd "/Users/Saurabh/workspace/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator" "-I/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/include" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include "/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-boensqviogqqlpgrumacmkzoktpl/Hello World-Prefix.pch" -c "/Users/Saurabh/workspace/Hello World/Hello World/Hello_WorldViewController.m" -o "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o"0#
+
+CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/Users/Saurabh/workspace/Hello World/Hello World/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s341972702.012235
+e341972702.157115
+r1
+xCompileC
+xbuild/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
+x/Users/Saurabh/workspace/Hello World/Hello World/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Users/Saurabh/workspace/Hello World/Hello World/main.m341972702#341972702#0(0"0(0#0#55"/Users/Saurabh/workspace/Hello World/Hello World/main.m8605146176#2027"    cd "/Users/Saurabh/workspace/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator" "-I/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/include" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include "/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-boensqviogqqlpgrumacmkzoktpl/Hello World-Prefix.pch" -c "/Users/Saurabh/workspace/Hello World/Hello World/main.m" -o "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/Hello_WorldViewController.xib"
+s341972702.464954
+e341972702.850636
+r1
+xCompileXIB
+x/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/Hello_WorldViewController.xib
+lSLF07#2@63"CompileXIB "Hello World/en.lproj/Hello_WorldViewController.xib"341972702#341972702#0(0"0(0#0#87"/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/Hello_WorldViewController.xib8604465024#658"    cd "/Users/Saurabh/workspace/Hello World"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.6/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/en.lproj/Hello_WorldViewController.nib" "/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/Hello_WorldViewController.xib" --sdk /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/MainWindow.xib"
+s341972702.464445
+e341972702.836682
+r1
+xCompileXIB
+x/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/MainWindow.xib
+lSLF07#2@48"CompileXIB "Hello World/en.lproj/MainWindow.xib"341972702#341972702#0(0"0(0#0#72"/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/MainWindow.xib8604614464#628"    cd "/Users/Saurabh/workspace/Hello World"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.6/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/en.lproj/MainWindow.nib" "/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/MainWindow.xib" --sdk /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyStringsFile "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/en.lproj/InfoPlist.strings" "Hello World/en.lproj/InfoPlist.strings"
+s341972702.463841
+e341972702.699862
+r1
+xCopyStringsFile
+x/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/en.lproj/InfoPlist.strings
+xHello World/en.lproj/InfoPlist.strings
+lSLF07#2@43"Copy Hello World/en.lproj/InfoPlist.strings341972702#341972702#0(0"0(0#0#75"/Users/Saurabh/workspace/Hello World/Hello World/en.lproj/InfoPlist.strings8604827616#519"    cd "/Users/Saurabh/workspace/Hello World"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.6/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary "Hello World/en.lproj/InfoPlist.strings" --outdir "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/en.lproj"0#
+
+CGenerateDSYMFile "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM" "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World"
+s341972702.412417
+e341972702.463763
+r1
+xGenerateDSYMFile
+x/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM
+x/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World
+lSLF07#2@125"GenerateDSYMFile "build/Debug-iphonesimulator/Hello World.app.dSYM" "build/Debug-iphonesimulator/Hello World.app/Hello World"341972702#341972702#0(0"0(0#0#92"/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World8604996832#413"    cd "/Users/Saurabh/workspace/Hello World"    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.6/usr/bin/dsymutil "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World" -o "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM"0#
+
+CLd "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World" normal i386
+s341972702.165529
+e341972702.412337
+r1
+xLd
+x/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World
+xnormal
+xi386
+lSLF07#2@97"Link /Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World341972702#341972702#0(0"0(0#0#0"8607259584#958"    cd "/Users/Saurabh/workspace/Hello World"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator" "-F/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator" -filelist "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello World.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World"0#
+
+CProcessInfoPlistFile "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist" "Hello World/Hello World-Info.plist"
+s341972701.295979
+e341972701.338331
+r1
+xProcessInfoPlistFile
+x/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist
+xHello World/Hello World-Info.plist
+lSLF07#2@42"Process Hello World/Hello World-Info.plist341972701#341972701#0(0"0(0#0#71"/Users/Saurabh/workspace/Hello World/Hello World/Hello World-Info.plist3418917612769015296#517"    cd "/Users/Saurabh/workspace/Hello World"    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility "Hello World/Hello World-Info.plist" -genpkginfo "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist"0#
+
+CProcessPCH "/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-boensqviogqqlpgrumacmkzoktpl/Hello World-Prefix.pch.gch" "Hello World/Hello World-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+s341972701.338482
+e341972702.012056
+r1
+xProcessPCH
+x/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-boensqviogqqlpgrumacmkzoktpl/Hello World-Prefix.pch.gch
+xHello World/Hello World-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@45"Precompile Hello World/Hello World-Prefix.pch341972701#341972702#0(0"0(0#0#71"/Users/Saurabh/workspace/Hello World/Hello World/Hello World-Prefix.pch8605527200#1915"    cd "/Users/Saurabh/workspace/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator" "-I/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/include" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/Users/Saurabh/workspace/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -c "/Users/Saurabh/workspace/Hello World/Hello World/Hello World-Prefix.pch" -o "/var/folders/wP/wPQY+BA7G2mwpcf7uRR9l++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello World-Prefix-boensqviogqqlpgrumacmkzoktpl/Hello World-Prefix.pch.gch"0#
+
+CTouch "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app"
+s341972702.850718
+e341972702.852613
+r1
+xTouch
+x/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app
+lSLF07#2@86"Touch /Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app341972702#341972702#0(0"0(0#0#0"8603563200#294"    cd "/Users/Saurabh/workspace/Hello World"    setenv PATH "/Developer-3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Saurabh/workspace/Hello World/build/Debug-iphonesimulator/Hello World.app"0#
+
